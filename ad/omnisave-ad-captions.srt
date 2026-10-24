@@ -1,0 +1,19 @@
+1
+00:00:00,300 --> 00:00:02,600
+Good food shouldn't end up here.
+
+2
+00:00:03,200 --> 00:00:07,000
+With OmniSave, reserve it for up to 50% off,
+
+3
+00:00:07,800 --> 00:00:10,200
+pick it up, cook it.
+
+4
+00:00:10,600 --> 00:00:12,800
+What's left goes to local NGOs.
+
+5
+00:00:13,200 --> 00:00:14,800
+OmniSave. Too fresh to trash.
